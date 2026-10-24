@@ -1,7 +1,5 @@
 # BITROT — Info and FAQ page contents
 
-Written for the beta, assuming this checklist is done: universal API key instead of rigs, 10,000 daily Hold per player, Zigbee/LoRa, Wax and Echo hidden, natural Blight, no fast-forward.
-
 ---
 
 # Info: How BITROT works
