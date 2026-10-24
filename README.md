@@ -1,6 +1,5 @@
 # BITROT — Info and FAQ page contents
 
----
 
 # Info: How BITROT works
 
